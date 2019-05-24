@@ -6,4 +6,5 @@ Allow-Control-Allow-Origin
 
 - בתוסף לעשות שהוא יתייחס רק לכתובות:
 http://localhost:5000/
+http://localhost:5000/*
 http://localhost:3000/
