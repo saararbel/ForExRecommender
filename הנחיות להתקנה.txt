@@ -1,0 +1,9 @@
+﻿הנחיות פרוייקט ולארי ויוליה:
+
+- להתקין תוסף כרום 
+https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi/related
+Allow-Control-Allow-Origin
+
+- בתוסף לעשות שהוא יתייחס רק לכתובות:
+http://localhost:5000/
+http://localhost:3000/
